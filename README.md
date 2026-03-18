@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Role-Embedded_Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-ARM_/_RTOS_/_Drivers-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-C_/_C++_/_Python-orange?style=flat-square" />
----
+</P>
+
 ### 🛠 嵌入式核心工具链
 
 <p align="left">
