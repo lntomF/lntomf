@@ -1,4 +1,4 @@
-# Hi there, I'm [LNTOMF] 👋
+# Hi there, I'm [LNTOMF] 👋🌏
 ### 📟 Embedded Software Engineer | ARM & RTOS Enthusiast
 
 <p align="left">
