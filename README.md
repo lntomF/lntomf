@@ -36,7 +36,7 @@
 
 ### 🐍 我的贡献贪吃蛇
 
-![snake html](https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg)
+![snake html](https://raw.githubusercontent.com/[LNTOMF]/[LNTOMF]/output/github-contribution-grid-snake.svg)
 
 ### 🚀 正在进行的项目 (Current Focus)
 - 🛰️ **Project-Sentinel**: 一个整合硬件、固件与网关协议的综合性嵌入式项目。
