@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Focus-ARM_/_RTOS_/_Drivers-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-C_/_C++_/_Python-orange?style=flat-square" />
 ---
+### 🛠 嵌入式核心工具链
+
+<p align="left">
+  
+<img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  
+<img src="https://img.shields.io/badge/Keil_MDK-394049?style=for-the-badge&logo=arm&logoColor=white" />
+</p>
 
 ### 🛠 核心技能概览 (Technical Skills)
 
@@ -30,12 +38,7 @@
 | **实时系统** | `FreeRTOS`, `RT-Thread` |
 | **接口协议** | `UART`, `I2C`, `SPI`, `CAN`, `RS485`, `Ethernet` |
 | **辅助工具** | `Keil`, `IAR`, `STM32CubeIDE`, `Git`, `Docker` |
-### 🛠 嵌入式核心工具链
 
-<p align="left">
-<img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/Keil_MDK-394049?style=for-the-badge&logo=arm&logoColor=white" />
-</p>
 ---
 
 ### 📊 GitHub 贡献统计 (Stats)
