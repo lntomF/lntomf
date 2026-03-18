@@ -1,4 +1,4 @@
-# Hi there, I'm [你的名字/ID] 👋
+# Hi there, I'm [LNTOMF] 👋
 ### 📟 Embedded Software Engineer | ARM & RTOS Enthusiast
 
 <p align="left">
@@ -38,8 +38,11 @@
 ### 📊 GitHub 贡献统计 (Stats)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=transparent&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=transparent" />
+  <!-- 第一张卡片：基础统计 -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LNTOMF&show_icons=true&theme=radical&include_all_commits=true" />
+  
+  <!-- 第二张卡片：语言占比 -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNTOMF&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -49,4 +52,4 @@
 - 📖 持续更新个人驱动库与嵌入式设计模式总结。
 
 ---
-📫 **如何联系我:** [你的邮箱/博客链接]
+📫 **如何联系我:** [D2847077988@gmail.com]
