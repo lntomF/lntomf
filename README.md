@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm [lntomF]
 
-<!--
-**lntomF/lntomf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 正在进行的挑战
+- 🛠 目前正致力于 **Project-Sentinel** (涉及硬件、固件与协议定义)
+- 🐍 深入探索 Python 自动化与 Docker 容器化部署
+- 🤝 寻求团队协作，共同优化开发流
 
-Here are some ideas to get you started:
+### 🛠 技术栈
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 我的 GitHub 状态
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=radical" />
+</p>
+
+---
+*“代码是写给人看的，顺便给机器运行。”*
