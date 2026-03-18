@@ -24,8 +24,6 @@
 | **接口协议** | `UART`, `I2C`, `SPI`, `CAN`, `RS485`, `Ethernet` |
 | **辅助工具** | `Keil`, `IAR`, `STM32CubeIDE`, `Git`, `Docker` |
 
----
-
 ### 📊 GitHub 贡献统计 (Stats)
 
 <p align="center">
@@ -36,11 +34,12 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNTOMF&layout=compact&theme=radical" />
 </p>
 
----
+### 🐍 我的贡献贪吃蛇
+
+![snake html](https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg)
 
 ### 🚀 正在进行的项目 (Current Focus)
 - 🛰️ **Project-Sentinel**: 一个整合硬件、固件与网关协议的综合性嵌入式项目。
 - 📖 持续更新个人驱动库与嵌入式设计模式总结。
 
----
 📫 **如何联系我:** [D2847077988@gmail.com]
