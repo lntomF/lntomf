@@ -10,25 +10,9 @@
 ### 🛠 嵌入式核心工具链
 
 <p align="left">
-  
 <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-  
 <img src="https://img.shields.io/badge/Keil_MDK-394049?style=for-the-badge&logo=arm&logoColor=white" />
 </p>
-
-### 🛠 核心技能概览 (Technical Skills)
-
-#### 🏗 系统层与架构 (System & Architecture)
-- **ARM 生态**: 精通 **ARM 主板 SDK** 编写，具备在多样化 ARM 平台进行程序部署与性能优化的实战经验。
-- **软件架构**: 擅长基于 **函数指针、宏、结构体** 的复杂面向对象（OOP）架构设计，坚持严谨的代码规范与模块化思维。
-- **操作系统**: 深入理解 **FreeRTOS** 等 RTOS 内核，熟悉任务调度、进程间通信（IPC）机制及效率优化。
-
-#### 🔌 硬件驱动与通信 (Hardware & Protocols)
-- **外设开发**: 熟练操控 **STM32** 全系列外设（USART, IIC, SPI, RS485 等）。
-- **底层功底**: 能够独立审阅英文数据手册（Datasheet）及复杂**电路原理图**。
-- **调试专家**: 熟练使用示波器、逻辑分析仪、电烙铁等工具进行硬件联调与故障排查。
-
----
 
 ### 🧰 技术栈 (Tech Stack)
 
