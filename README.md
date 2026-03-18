@@ -34,8 +34,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNTOMF&layout=compact&theme=radical" />
 </p>
 
-
-[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)[LNTOMF]/[LNTOMF]/output/github-contribution-grid-snake.svg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lntomF/lntomf/refs/heads/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ### 🚀 正在进行的项目 (Current Focus)
 - 🛰️ **Project-Sentinel**: 一个整合硬件、固件与网关协议的综合性嵌入式项目。
