@@ -34,7 +34,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNTOMF&layout=compact&theme=radical" />
 </p>
 
-### 🐍 我的贡献贪吃蛇
 
 ![snake html](https://raw.githubusercontent.com/[LNTOMF]/[LNTOMF]/output/github-contribution-grid-snake.svg)
 
