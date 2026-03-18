@@ -14,8 +14,8 @@
 
 ### 📊 我的 GitHub 状态
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[lntomF]&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[lntomF]&layout=compact&theme=radical" />
 </p>
 
 ---
