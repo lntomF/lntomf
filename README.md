@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Focus-ARM_/_RTOS_/_Drivers-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-C_/_C++_/_Python-orange?style=flat-square" />
 </p>
+<p align="left">
+  <a href="https://github.com/你的用户名?tab=repositories&q=arm">
+    <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  </a>
+  <a href="https://github.com/你的用户名?tab=repositories&q=stm32">
+    <img src="https://img.shields.io/badge/STM32-394049?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  </a>
+</p>
 
 ---
 
