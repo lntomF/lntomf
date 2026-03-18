@@ -1,10 +1,9 @@
-# Hi there, I'm [LNTOMF] 👋🌏
-### 📟 Embedded Software Engineer | ARM & RTOS Enthusiast
-
 ![Header](./header.png)
 <p align="center">
   <img src="./header.png" width="100%" alt="Header" />
 </p>
+# Hi there, I'm [LNTOMF] 👋🌏
+### 📟 Embedded Software Engineer | ARM & RTOS Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Embedded_Engineer-blue?style=flat-square" />
