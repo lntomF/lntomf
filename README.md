@@ -35,7 +35,7 @@
 </p>
 
 
-![snake html](https://raw.githubusercontent.com/[LNTOMF]/[LNTOMF]/output/github-contribution-grid-snake.svg)
+[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)[LNTOMF]/[LNTOMF]/output/github-contribution-grid-snake.svg
 
 ### 🚀 正在进行的项目 (Current Focus)
 - 🛰️ **Project-Sentinel**: 一个整合硬件、固件与网关协议的综合性嵌入式项目。
