@@ -1,4 +1,4 @@
-# Hi there, I'm [LNTOMF] 👋🌏
+# Hi there, I'm [Guangguo Deng] 👋🌏
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+System+Kernel...;Loading+ARM+Cortex-M+Drivers...;Booting+FreeRTOS+Environment...;Ready+for+Directives." alt="Typing SVG" />
